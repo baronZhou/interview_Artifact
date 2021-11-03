@@ -1,6 +1,8 @@
 # 面试宝典
 Linux Kernel、驱动、ARM、嵌入式
 
+该仓库已经托管到readthedoc,可以访问这个地址去查阅文档。链接：https://ctw.readthedocs.io/en/latest/
+
 #### 安装必要工具
 
 sudo apt install git make python3 python3-pip
